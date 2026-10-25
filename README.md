@@ -1,6 +1,3 @@
-# vector-vpn-downloads
-Official Vector VPN client downloads, releases, and updates.
-
 # Vector VPN
 
 Добро пожаловать в официальный репозиторий загрузок **Vector VPN**!
